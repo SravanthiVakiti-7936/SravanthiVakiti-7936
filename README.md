@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Vakiti Sravanthi 👋
 
-<!--
-**SravanthiVakiti-7936/SravanthiVakiti-7936** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year B.Tech Information Technology student passionate about Machine Learning, Deep Learning, and Data Analytics.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Machine Learning
+- Deep Learning
+- Data Analysis
+- SQL
+- Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Multimodal AI Analysis for Heart Disease Prediction
+- Brain Stroke Detection using Deep Learning
+
+## Tools & Technologies
+Python | TensorFlow | Keras | Scikit-learn | Pandas | NumPy | Streamlit | Power BI
+
+## Connect with me
+LinkedIn: https://www.linkedin.com
+GitHub: https://github.com/SravanthiVakiti-7936
